@@ -1,16 +1,62 @@
-### Hi there 👋
 
-<!--
-**hiche-m/hiche-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+![](https://badgen.net/badge/Profile/NEW/orange?icon=github)
+![](https://komarev.com/ghpvc/?username=hiche-m&color=brightgreen)
+
+<br/>
+
+I am Hichem, a 21 year old university student, my github is going to only include my development work and projects I've done or progressed in so far.
+I think what may make me standout from other developers, is that I actually enjoy programming <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_cup_icon.svg/2137px-Coffee_cup_icon.svg.png" width="20"/>
+
+
+Beside studying computer science, I currently am a:
+- <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter Logo" width="15"/> **Flutter Developer** (Expert)
+- <img src="https://access.tufts.edu/sites/default/files/2017-10/Adobe-Creative-Cloud.svg" alt="Adobe Creative Suite Logo" width="15"/> Graphic Designer (Expert)
+- <img src="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_Vegas_Pro_13_%282014%29.svg/revision/latest/scale-to-width-down/200?cb=20210827155453" alt="Sony Vegas Pro Logo" width="15"/> Video Editor (Proficient)
+
+<br/><br/>
+
+## 💻 **Skills:**
+
+<hr/>
+
+- 📱 Flutter, HTML, CSS...
+- 👨🏾‍💻 Dart, Java, C, C++, Python, PLSQL, Matlab...
+- 🌐 SQL, MySQL
+
+<br/>
+
+## 📙 **Languages:**
+
+<hr/>
+
+- English (Expert)
+- French (Advanced)
+- Arabic (Native)
+
+<br/><br/>
+
+## 👤 **Contact Me:**
+
+<hr/>
+
+- Email: <ins>hichem1029@live.fr</ins>
+- Instagram: [<ins>@hichem_rhm</ins>](https://www.instagram.com/hichem_rhm/)
+- Facebook: [<ins>hichem.ra7m</ins>](https://www.facebook.com/hichem.ra7m)
+- LinkedIn: [<ins>hiche-m</ins>](https://www.linkedin.com/in/hiche-m)
+
+<br/>
+
+<hr/><br/><br/>
+
+Some other information about me:
+
+<br/>
+
+### **Hobbies**:
+
+- ♟️ Chess, ⚽ Football and ⛰️ Hiking.
