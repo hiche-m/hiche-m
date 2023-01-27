@@ -14,7 +14,7 @@ I think what may make me standout from other developers, is that I actually enjo
 
 
 Beside studying computer science, I currently am a:
-- <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter Logo" width="15"/> **Flutter Developer** (Expert)
+- <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter Logo" width="15"/> **Flutter Developer** (Proficient)
 - <img src="https://access.tufts.edu/sites/default/files/2017-10/Adobe-Creative-Cloud.svg" alt="Adobe Creative Suite Logo" width="15"/> Graphic Designer (Expert)
 - <img src="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_Vegas_Pro_13_%282014%29.svg/revision/latest/scale-to-width-down/200?cb=20210827155453" alt="Sony Vegas Pro Logo" width="15"/> Video Editor (Proficient)
 
