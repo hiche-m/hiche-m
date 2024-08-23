@@ -4,7 +4,6 @@
 
 <hr/>
 
-![](https://badgen.net/badge/Profile/NEW/orange?icon=github)
 ![](https://komarev.com/ghpvc/?username=hiche-m&color=brightgreen)
 
 <br/>
