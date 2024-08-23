@@ -10,12 +10,16 @@
 <br/>
 
 I am Hichem, a 22 year old university student, my github is going to only include my development work and projects I've done or progressed in so far.
-I think what might make me standout from other developers, is that I actually enjoy programming <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coffee_cup_icon.svg/2137px-Coffee_cup_icon.svg.png" width="20"/>
-
 
 Beside studying computer science, I currently am a:
-- <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter Logo" width="15"/> **Flutter Developer** (Expert)
-- <img src="https://access.tufts.edu/sites/default/files/2017-10/Adobe-Creative-Cloud.svg" alt="Adobe Creative Suite Logo" width="15"/> Graphic Designer - UI/UX Designer (Expert)
+- **Front-End Developer** (Expert)
+    * **Cross-Plateform / Mobile**: Flutter (Android/Material Design).
+    * **Web**: React JS.
+    * **Desktop**: Electron JS.
+- **Graphic Designer - UI/UX Designer** (Expert)
+    * **Image Editing**: Adobe Photoshop.
+    * **Vectors**: Adobe Illustrator.
+    * **UI/UX Designs and Prototypes**: Figma.
 
 <br/><br/>
 
@@ -23,9 +27,10 @@ Beside studying computer science, I currently am a:
 
 <hr/>
 
-- 📱 Flutter, HTML, CSS...
-- 👨🏾‍💻 Dart, Java, C, C++, Python, PLSQL, Matlab...
-- 🌐 SQL, MySQL
+- 📱/💻 Flutter, React JS, Tailwind CSS, Electron JS, Node JS.
+- 🖼 Figma, Adobe Photoshop, Adobe Illustrator...
+- 👨🏾‍💻 Dart, HTML/CSS, Javascript, Java, Java Swing, Python, C/C++, SQL...
+- 🌐 MySQL, Firebase, Node JS.
 
 <br/>
 
@@ -43,18 +48,8 @@ Beside studying computer science, I currently am a:
 
 <hr/>
 
-- Email: <ins>hichem1029@live.fr</ins>
+- Email: <ins>hichem_rahmani@outlook.com</ins>
 - Instagram: [<ins>@hichem_rhm</ins>](https://www.instagram.com/hichem_rhm/)
 - Facebook: [<ins>hichem.ra7m</ins>](https://www.facebook.com/hichem.ra7m)
 
 <br/>
-
-<hr/><br/><br/>
-
-Some other information about me:
-
-<br/>
-
-### **Hobbies**:
-
-- ♟️ Chess, ⚽ Football and ⛰️ Hiking.
