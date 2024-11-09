@@ -8,7 +8,7 @@
 
 <br/>
 
-I am Hichem, a 22 year old university student, my github is going to only include my development work and projects I've done or progressed in so far.
+I am Hichem, a 23 year old university student, my github is going to only include my development work and projects I've done or progressed in so far.
 
 Beside studying computer science, I currently am a:
 - **Front-End Developer** (Expert)
