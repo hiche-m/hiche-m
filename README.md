@@ -58,7 +58,8 @@
 
 - 📧 Email: [hichem_rahmani@outlook.com](mailto:hichem_rahmani@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/hiche-m](https://linkedin.com/in/hiche-m/)  
-- 📱 WhatsApp: [+2136 98 85 40 47](https://wa.me/213784397078)  
+- 📱 WhatsApp: [+2137 84 39 70 78](https://wa.me/213784397078)  
+- 📱 Phone: +2136 98 85 40 47  
 
 ---
 
