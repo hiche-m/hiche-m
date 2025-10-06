@@ -7,43 +7,44 @@
 
 <br/>
 
-🎯 A multi-skilled **Front-End Developer**, **UI/UX Designer**, and **IT Technician** with a solid background in **software engineering** and a growing interest in **AI and modern web technologies**. I build clean, responsive, and intuitive user experiences across mobile, desktop, and web platforms.
+A multi-skilled **Front-End Developer**, **UI/UX Designer**, and **IT Technician** with a solid background in **software engineering** and a growing interest in **AI and modern web technologies**. I build clean, responsive, and intuitive user experiences across mobile, desktop, and web platforms.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-- 🎨 **UI/UX Design**  
+- **Flutter Mobile Development**  
+  Developing cross-platform mobile apps using Flutter and managing app state with Provider or BLoC through highly complexe architectures, all while utilizing CI/CD tools.
+
+- **Full-Stack Development**  
+  Creating fast, responsive applications using React, Electron JS, Tailwind CSS, and JavaScript all with reliable and efficient backend systems using Express JS, Django and Nest JS.
+
+- **UI/UX Design**  
   Crafting modern, user-centered interfaces using Figma and Adobe Suite with a strong focus on usability and clarity.
 
-- 💻 **Front-End Development**  
-  Creating fast, responsive applications using React, Electron JS, Tailwind CSS, and JavaScript.
-
-- 📱 **Mobile App Development**  
-  Developing cross-platform mobile apps using Flutter and managing app state with Provider.
-
-- 🛠️ **IT Setup & Support**  
-  Providing technical support, hardware/software maintenance, and full system setup — including networks, workstations, and diagnostics.
+- **IT Setup & Support**  
+  Providing technical support, hardware/software maintenance, and full system setup, including networks, workstations, and diagnostics.
 
 ---
 
-## 🛠️ Technologies I Work With
+## Technologies I Work With
 
 | Front-End | Mobile | Back-End | Design | Tools | Other |
 |-----------|--------|----------|--------|--------|--------|
-| React, Electron, Tailwind, HTML/CSS, JS | Flutter (Dart) | Firebase, Express.js, MySQL | Figma, Photoshop | Git, Webpack, SharedPreferences | Python, Mapbox, Basic AI/ML |
+| React JS, Express JS, Electron JS, Tailwind CSS | Flutter, React Native | Firebase, Express JS, Nest JS, Django | Figma, Photoshop, Illustrator | Git/Gitlab, Shorebird, Codemagic, Docker | Google Services, Mapbox, Basic AI/ML |
 
 ---
 
-## 📚 Currently
+## Currently
 
-🎓 Final-year Master’s student in **Artificial Intelligence**  
-📍 Based in Oran, Algeria  
-🔧 Freelance software developer with experience in both design and development  
+- Software Engineer at Signature Consulting 
+- **Artificial Intelligence** Masters degree holder
+- Based in Oran Algeria (Soon to relocate)
+- Freelance software developer with experience in both design and development  
 
 ---
 
-## 🌱 Interests
+## Interests
 
 - Building **intuitive user experiences** that solve real-world problems  
 - Working with **interactive maps**, **real-time data**, and **mobile-first interfaces**  
@@ -52,16 +53,16 @@
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-- 📧 Email: [hichem_rahmani@outlook.com](mailto:hichem_rahmani@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/hiche-m](https://linkedin.com/in/hiche-m/)  
-- 📱 WhatsApp: [+2137 84 39 70 78](https://wa.me/213784397078)  
-- 📱 Phone: +2136 98 85 40 47  
+- Email: [hichem_rahmani@outlook.com](mailto:hichem_rahmani@outlook.com)  
+- LinkedIn: [linkedin.com/in/hiche-m](https://linkedin.com/in/hiche-m/)  
+- WhatsApp: [+2137 84 39 70 78](https://wa.me/213784397078)  
+- Phone: +2136 98 85 40 47  
 
 ---
 
 > “Design it like a user. Build it like a dev. Think it through like a system.”
 
-Thanks for stopping by — feel free to check out my projects!
+Thanks for stopping by, feel free to check out my projects!
 
