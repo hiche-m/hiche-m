@@ -3,8 +3,6 @@
 
 <hr/>
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hiche-m&show_icons=true&theme=dark)](https://github.com/hiche-m/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=hiche-m&color=brightgreen)
 
 <br/>
